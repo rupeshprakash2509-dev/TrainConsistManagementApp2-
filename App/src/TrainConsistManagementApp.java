@@ -18,7 +18,7 @@ public class TrainConsistManagementApp {
         bogieIds.add("BG101"); // duplicate
         bogieIds.add("BG102"); // duplicate
 
-        // Step 4: Display Unique Bogie IDs
+        // Step 4: Display Unique Bogie ID
         System.out.println("Unique Bogie IDs: " + bogieIds);
 
         // Step 5: Program continues
